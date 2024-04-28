@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="meging_project">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/meging_project.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
